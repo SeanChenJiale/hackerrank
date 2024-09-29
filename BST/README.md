@@ -17,6 +17,7 @@ Sample Input
 |5 |NULL|
 
 Sample Output
+| | |
 |:----|:---|
 |1| Leaf|
 |2| Inner|
