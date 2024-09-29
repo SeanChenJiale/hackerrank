@@ -6,7 +6,7 @@ Leaf: If node is leaf node.
 Inner: If node is neither root nor leaf node.
 
 Sample Input
-|N| P|
+|N|P|
 |:----|:---|
 |1| 2|
 |3| 2|
@@ -17,14 +17,14 @@ Sample Input
 |5 |NULL|
 
 Sample Output
-
-1 Leaf
-2 Inner
-3 Leaf
-5 Root
-6 Leaf
-8 Inner
-9 Leaf
+|:----|:---|
+|1| Leaf|
+|2| Inner|
+|3 |Leaf|
+|5| Root|
+|6| Leaf|
+|8| Inner|
+|9| Leaf|
 
 Explanation
 
